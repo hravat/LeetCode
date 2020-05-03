@@ -31,3 +31,4 @@ class Solution(object):
                 
                     
         l_index.sort()   
+        return l_index
